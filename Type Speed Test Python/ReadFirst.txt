@@ -1,0 +1,6 @@
+Hello, thanks so much for checking out my Typing Speed program!
+
+
+*If your system does not have Tkinter installed, run this line in terminal:
+pip install tk
+
